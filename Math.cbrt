@@ -1,0 +1,2 @@
+        a=857375;
+        console.log(Math.cbrt(a));

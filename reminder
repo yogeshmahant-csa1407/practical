@@ -1,0 +1,9 @@
+console.log(15%3);
+console.log(25%3);
+console.log(35%3);
+console.log(45%3);
+console.log(55%3);
+console.log(65%3);
+console.log(75%3);
+console.log(85%3);
+console.log(95%3);
